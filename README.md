@@ -2,6 +2,7 @@
 
 
 ### Restful Booker - API Testing Project #1
+Author-Aishwarya Meshram
 Project Name : Restful-booker
 
 Url of the project
